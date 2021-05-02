@@ -2,7 +2,7 @@
 
 [Original Repo](https://github.com/tjvig94/employee-directory/)
 
-[Deployed Application](https://tjvig94.github.io/employee-directory2/)
+[Deployed Application](https://tjvig94.github.io/employeedirectory/)
 
 I really goofed up my repo on this one... You'll have to look back in the commit history over there to see the progress on the development. Sorry!
 
